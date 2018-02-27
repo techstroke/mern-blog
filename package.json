@@ -1,0 +1,25 @@
+{
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "description": "A tiny blog app using mysql, express, react, node built for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techstroke/mern-blog.git"
+  },
+  "keywords": [
+    "mysql",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Vivek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techstroke/mern-blog/issues"
+  },
+  "homepage": "https://github.com/techstroke/mern-blog#readme"
+}
